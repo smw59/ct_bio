@@ -25,6 +25,7 @@ setup(
         'my_subscriber = rad_reduction_perception.my_subscriber:main',
         'publisher = rad_reduction_perception.publisher:main',
         'test_publisher = rad_reduction_perception.test_publisher:main'
+        'marker_to_robot = rad_reduction_perception.marker_to_robot:main',
     ],
 },
 
